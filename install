@@ -254,7 +254,7 @@ echo ""
 echo " พิมพ์ m เพื่อเข้าสู่การใช้งาน "
 cd
 
-elif
+else
 echo ""
 echo " รหัสไม่ถูกต้อง " 
 exit
